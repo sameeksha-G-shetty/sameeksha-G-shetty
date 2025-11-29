@@ -89,8 +89,9 @@ A full-stack platform that connects farmers, suppliers, and buyers.
 ---
 
 ## 📫 Connect with Me  
-📧 **sameeksha@example.com**  
-🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
+📧 **sameekshasathisha@gmail.com**  
+🔗 **LinkedIn:**https://www.linkedin.com/in/
+sameekshag
 🐙 **GitHub:** https://github.com/YourUserName  
 
 ---
